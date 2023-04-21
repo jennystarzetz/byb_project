@@ -1,1 +1,1 @@
-let printOut = console.log("Git is Awesome!")
+let printOut = console.log("Git is pretty Awesome!")
